@@ -22,16 +22,24 @@ It extracts resume text, identifies skills, calculates ATS score, and gives impr
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-![Home]("C:\Users\YASMEEN\OneDrive\Pictures\Screenshots\Screenshot (47).png")
+![Home](<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/c75903ba-b88b-4e98-986c-de69443088e7" />
+)
 
 ### 🔹 Resume Upload
-![Upload]("C:\Users\YASMEEN\OneDrive\Pictures\Screenshots\Screenshot (48).png")
+![Upload](<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/02b73718-a8df-447b-878d-a625bf6b4c2d" />
+)
 
 ### 🔹 ATS Score
-![ATS Score]("C:\Users\YASMEEN\OneDrive\Pictures\Screenshots\Screenshot (49).png")
+![ATS Score](<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/47d67e0f-98c7-4055-ac61-7bc7aef09fb5" />
+)
 
 ### 🔹 Skills Extracted
-![Skills]("C:\Users\YASMEEN\OneDrive\Pictures\Screenshots\Screenshot (51).png")
+![Skills](<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/ecc7faf0-f9b1-4e6b-bacb-ac4e12346341" />
+)
+
+### 🔹 Document Report
+![Report](<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/8fa0af10-1a1e-42d6-a797-10f626f13575" />
+)
 
 ---
 
@@ -44,7 +52,3 @@ It extracts resume text, identifies skills, calculates ATS score, and gives impr
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yasmeen-mulla-ai/resume-analyzer.git
